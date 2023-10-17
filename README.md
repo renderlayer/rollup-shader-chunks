@@ -74,5 +74,5 @@ This project is released under the MIT [License](LICENSE).
 [ci-url]: https://github.com/renderlayer/rollup-shader-chunks/actions
 [npm-badge]: https://img.shields.io/npm/v/@renderlayer/rollup-shader-chunks
 [npm-url]: https://www.npmjs.com/package/@renderlayer/rollup-shader-chunks
-[license-badge]: https://img.shields.io/npm/l/@renderlayer/rollup-shader-chunks.svg
+[license-badge]: https://img.shields.io/npm/l/@renderlayer/rollup-shader-chunks.svg?cacheSeconds=2592000
 [license-url]: LICENSE
